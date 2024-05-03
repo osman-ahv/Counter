@@ -13,6 +13,7 @@
 		331C922F2BE42B3400C34419 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 331C922E2BE42B3400C34419 /* Base */; };
 		331C92312BE42B3500C34419 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 331C92302BE42B3500C34419 /* Assets.xcassets */; };
 		331C92342BE42B3500C34419 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 331C92332BE42B3500C34419 /* Base */; };
+		331C923B2BE44D0300C34419 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 331C922D2BE42B3400C34419 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -128,6 +129,7 @@
 				331C92312BE42B3500C34419 /* Assets.xcassets in Resources */,
 				331C92342BE42B3500C34419 /* Base in Resources */,
 				331C922F2BE42B3400C34419 /* Base in Resources */,
+				331C923B2BE44D0300C34419 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
